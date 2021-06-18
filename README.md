@@ -1,6 +1,8 @@
 # app-reconocimiento-facial
 Proyecto Final para el curso de Inteligencia Artificial UPC: 2021-01
 
+Python 3.9.5
+
 1. Clonar el repositorio
 
 ```bash
